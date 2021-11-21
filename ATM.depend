@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1637413052 source:c:\users\~zxz~\desktop\atm\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
