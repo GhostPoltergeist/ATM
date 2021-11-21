@@ -1,7 +1,2 @@
 # Automated Teller Machine Program
-
-      _/_/    _/_/_/_/_/  _/      _/   
-   _/    _/      _/      _/_/  _/_/    
-  _/_/_/_/      _/      _/  _/  _/     
- _/    _/      _/      _/      _/      
-_/    _/      _/      _/      _/       
+is a type of electronic banking that allows consumers to conduct simple transactions without the assistance of a teller or branch personnel. ... ATMs are also known as automated bank machines (ABM) or cash machines in different regions of the world.
